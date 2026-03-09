@@ -13,6 +13,8 @@ Lee Hansen
 
 March 2026
 
+License: GNU Affero General Public License v3.0 (AGPL-3.0)
+
 **WORKING MANUSCRIPT**
 
 *Integrating the Paper Suite:*
